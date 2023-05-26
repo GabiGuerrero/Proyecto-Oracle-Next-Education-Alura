@@ -1,0 +1,42 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#barber{
+    width: 100%; height: 400px;
+}
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+    /**background-color: #cccccc;**/
+}
+.texto{
+    text-align: center;
+    background: #cccccc; 
+}
+
+strong{
+    color:red;
+}
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+li.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15px;
+}
+.imagendiferenciales{
+    width: 50%;
+}
